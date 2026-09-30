@@ -1,6 +1,6 @@
 # MakeAIVideo
 
-**MakeAIVideo is an AI video generator that turns a prompt, a script, an image or a talking avatar into a finished short-form video (script, AI voiceover, AI or stock scenes, captions and music) and posts or schedules it to connected TikTok, Instagram, YouTube, Facebook Pages, LinkedIn, Threads, Pinterest, Bluesky, Telegram and Discord accounts.**
+**MakeAIVideo is an AI video generator that turns a prompt, a script, an image or a talking avatar into a finished short-form video (script, AI voiceover, AI or stock scenes, captions and music) and posts or schedules it to connected TikTok, Instagram, YouTube, Facebook Pages, LinkedIn, X, Threads, Pinterest, Bluesky, Telegram and Discord accounts.**
 
 This organization holds the official, MIT-licensed developer packages for [makeaivideo.ai](https://makeaivideo.ai): build video generation and social posting into your code, your terminal or your AI assistant.
 
@@ -18,7 +18,7 @@ For a presenter on screen, [AI talking avatar videos](https://makeaivideo.ai/tal
 
 From a still image, [image to video](https://makeaivideo.ai/image-to-video) turns product shots, landscapes and album art into a moving clip, and [animate a photo](https://makeaivideo.ai/animate-a-photo) brings portraits, pets and old family photos to life.
 
-Every video is sized for short-form platforms: use the [TikTok video generator](https://makeaivideo.ai/tiktok-video-generator), the [Instagram Reels generator](https://makeaivideo.ai/instagram-reels-generator) or the [AI YouTube Shorts generator](https://makeaivideo.ai/ai-shorts-generator), or run a [faceless YouTube channel](https://makeaivideo.ai/faceless-youtube-channel) without filming. When a video is ready, [auto-post to social media](https://makeaivideo.ai/auto-post) posts or schedules it to TikTok, Instagram, YouTube, Facebook Pages, LinkedIn, Threads, Pinterest, Bluesky, Telegram and Discord (X is not supported). Plans and credits are on the [MakeAIVideo pricing page](https://makeaivideo.ai/pricing), and AI assistants connect through the [MakeAIVideo MCP server setup guide](https://makeaivideo.ai/docs/mcp).
+Every video is sized for short-form platforms: use the [TikTok video generator](https://makeaivideo.ai/tiktok-video-generator), the [Instagram Reels generator](https://makeaivideo.ai/instagram-reels-generator) or the [AI YouTube Shorts generator](https://makeaivideo.ai/ai-shorts-generator), or run a [faceless YouTube channel](https://makeaivideo.ai/faceless-youtube-channel) without filming. When a video is ready, [auto-post to social media](https://makeaivideo.ai/auto-post) posts or schedules it to TikTok, Instagram, YouTube, Facebook Pages, LinkedIn, X, Threads, Pinterest, Bluesky, Telegram and Discord. Plans and credits are on the [MakeAIVideo pricing page](https://makeaivideo.ai/pricing), and AI assistants connect through the [MakeAIVideo MCP server setup guide](https://makeaivideo.ai/docs/mcp).
 
 The SDK, CLI and MCP server above cover the brief-driven tools (explainer, listicle, story, UGC, demo, article and spokesperson), your own scripts, and posting to social accounts.
 
