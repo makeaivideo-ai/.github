@@ -44,7 +44,7 @@ npx @makeaivideo/cli login
 - REST base URL: `https://app.makeaivideo.ai/api/v1`
 - MCP server: `https://mcp.makeaivideo.ai`
 - For AI agents: [makeaivideo.ai/agents](https://makeaivideo.ai/agents) · [llms.txt](https://makeaivideo.ai/llms.txt)
-- Pricing: [makeaivideo.ai/pricing](https://makeaivideo.ai/pricing) (paid plans with a 7-day trial, card required)
+- Pricing: [makeaivideo.ai/pricing](https://makeaivideo.ai/pricing) (start free with no card; making videos needs a plan, from $14 a month; no free trial)
 - Support: support@makeaivideo.ai
 
 MakeAIVideo is operated by MintClips Ltd (UK).
